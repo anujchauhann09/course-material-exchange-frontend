@@ -1,5 +1,7 @@
 export default function Footer() {
     return (
-        <h1>Footer</h1>
+        <section className="section w-full h-[407px] bg-red-200">
+            hey
+        </section>
     )
 }
